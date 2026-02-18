@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[47257,["/Carbon-Cursor-Demo/_next/static/chunks/ff1a16fafef87110.js","/Carbon-Cursor-Demo/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
-3:I[31713,["/Carbon-Cursor-Demo/_next/static/chunks/3721aecfa2b0db8e.js","/Carbon-Cursor-Demo/_next/static/chunks/9191dc2570efc7e6.js","/Carbon-Cursor-Demo/_next/static/chunks/dd9be31c1e181a39.js","/Carbon-Cursor-Demo/_next/static/chunks/967cf8617a03f4d6.js"],"default"]
-6:I[97367,["/Carbon-Cursor-Demo/_next/static/chunks/ff1a16fafef87110.js","/Carbon-Cursor-Demo/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2:I[47257,["/Carbon-Cursor-Demo-Pub/_next/static/chunks/ff1a16fafef87110.js","/Carbon-Cursor-Demo-Pub/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientPageRoot"]
+3:I[31713,["/Carbon-Cursor-Demo-Pub/_next/static/chunks/3721aecfa2b0db8e.js","/Carbon-Cursor-Demo-Pub/_next/static/chunks/9191dc2570efc7e6.js","/Carbon-Cursor-Demo-Pub/_next/static/chunks/dd9be31c1e181a39.js","/Carbon-Cursor-Demo-Pub/_next/static/chunks/c5a75f202b5e3d7a.js"],"default"]
+6:I[97367,["/Carbon-Cursor-Demo-Pub/_next/static/chunks/ff1a16fafef87110.js","/Carbon-Cursor-Demo-Pub/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"Y5WDXnRVi_5seozG1E_dp","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Carbon-Cursor-Demo/_next/static/chunks/967cf8617a03f4d6.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"6EBttOBQOl4IHc25vgsFq","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Carbon-Cursor-Demo-Pub/_next/static/chunks/c5a75f202b5e3d7a.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
